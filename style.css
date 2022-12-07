@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+b {
+    text-align: center;
+    color: cyan;
+}
+header {
+    background-color: darkorchid;
+}
+header a {
+    border: 2px solid white;
+    color: white;
+}
+h1{
+    border: 2px solid white;
+color:blue;}
+footer p{
+   border: 3px solid green; 
+   color: orange;
+}
+.img {
+    background-color: chartreuse;
+    border-radius: 10px;
+}
